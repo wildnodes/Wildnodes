@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="200" valign="top">
+<td width="250" valign="top">
 
-[![Holopin Badge](https://holopin.io/api/user/wildnodes/badge)](https://holopin.io/@wildnodes)
+[![Holopin Badge](https://holopin.io/api/user/wildnodes/badge?size=100)](https://holopin.io/@wildnodes)
 
 </td>
 <td valign="top">
@@ -14,7 +14,7 @@ We are building **self-contained off-grid internet alternatives** using IoT node
 
 ## 🔧 Current Focus
 - 🔭 Working on: ESP32 + BME280 nodes, wireless mesh networking  
-- 🌱 Learning: MQTT, LoRa, off-grid networking protocols  
+- 🌱 Learning: MQTT, LoRa, and off-grid communication protocols  
 - 💬 Ask me about: IoT projects, off-grid internet, Holopin badges  
 - ⚡ Fun fact: Our mascot is a Pegasaurus!
 
@@ -46,4 +46,4 @@ We are building **self-contained off-grid internet alternatives** using IoT node
 
 ## 🏆 Achievements
 
-[![Holopin Badge](https://holopin.io/api/user/wildnodes/badge)](https://holopin.io/@wildnodes)
+[![Holopin Badge](https://holopin.io/api/user/wildnodes/badge?size=100)](https://holopin.io/@wildnodes)
