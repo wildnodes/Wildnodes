@@ -14,4 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Holopin Board](https://holopin.io/api/user/wildnodes/badge)](https://holopin.io/@wildnodes)
+<table>
+  <tr>
+    <td width="200px">
+      <a href="https://holopin.io/@wildnodes">
+        <img src="https://holopin.io/api/user/wildnodes/badge" alt="Holopin Badge Board">
+      </a>
+    </td>
+    <td>
+      <!-- Your other content goes here -->
+    </td>
+  </tr>
+</table>
+
