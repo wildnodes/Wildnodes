@@ -1,11 +1,19 @@
 <table>
 <tr>
-<td width="250" valign="top">
+<td width="220" valign="top">
 
-[![Holopin Badge](https://holopin.io/api/user/wildnodes/badge?size=100)](https://holopin.io/@wildnodes)
+<!-- Holopin badges in the left sidebar -->
+[![An image of @wildnodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wildnodes)](https://holopin.io/@wildnodes)
+
+<br>
+
+<!-- GitHub stats stacked under badges -->
+![Wildnodes GitHub stats](https://github-readme-stats.vercel.app/api?username=wildnodes&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildnodes&layout=compact&hide_border=true)
 
 </td>
-<td valign="top">
+<td valign="top" style="padding-left: 20px;">
 
 # Hi there 👋
 
@@ -14,7 +22,7 @@ We are building **self-contained off-grid internet alternatives** using IoT node
 
 ## 🔧 Current Focus
 - 🔭 Working on: ESP32 + BME280 nodes, wireless mesh networking  
-- 🌱 Learning: MQTT, LoRa, and off-grid communication protocols  
+- 🌱 Learning: MQTT, LoRa, off-grid communication protocols  
 - 💬 Ask me about: IoT projects, off-grid internet, Holopin badges  
 - ⚡ Fun fact: Our mascot is a Pegasaurus!
 
@@ -22,29 +30,11 @@ We are building **self-contained off-grid internet alternatives** using IoT node
 - Website: [hobgoblin.io/wildnodes](https://hobgoblin.io/wildnodes)  
 - Email: your-email@example.com
 
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-![Wildnodes GitHub stats](https://github-readme-stats.vercel.app/api?username=wildnodes&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildnodes&layout=compact)
-
----
-
 ## 🗂 Projects
-
 - [Wildnodes Repo](https://github.com/wildnodes/Wildnodes) – Main project repo  
 - [Weather Node](https://github.com/wildnodes/weather-node) – ESP32 weather station  
 - [Music Server](https://github.com/wildnodes/music-server) – Off-grid music streaming
 
----
-
-## 🏆 Achievements
-
-[![Holopin Badge](https://holopin.io/api/user/wildnodes/badge?size=100)](https://holopin.io/@wildnodes)
-
+</td>
+</tr>
+</table>
